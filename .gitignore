@@ -1,0 +1,14 @@
+# --- Segredos e credenciais (nunca versionar) ---
+.env
+.env.*
+!.env.example
+GoogleService-Info.plist
+google-services.json
+*.p8
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+key.properties
+local.properties
+secrets/
